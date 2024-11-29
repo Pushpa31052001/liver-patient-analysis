@@ -6,5 +6,3 @@ The processed data was then visualized using a variety of plots to uncover patte
 
 Additionally, we implemented machine learning algorithms to solve specific tasks, such as classification or prediction. After training and testing these models, we evaluated their performance by calculating metrics like accuracy. This allowed us to determine which algorithm was most effective for the given dataset, providing a basis for selecting the best model for future applications.
 
-1) Download the .py file
-2) run in visual studio
